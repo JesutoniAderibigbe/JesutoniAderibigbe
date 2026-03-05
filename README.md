@@ -4,7 +4,7 @@
 
 <img align='right' src="https://i.ibb.co/fVyJvHv8/IMG-3694.jpg" width='400" '>
 
-[![Twitter Badge](https://img.shields.io/badge/-@monnarene-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ToniAderibigbe)](https://twitter.com/ToniAderibigbe) [![Linkedin Badge](https://img.shields.io/badge/-MichaelMekuleyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesutoni-aderibigbe/)](https://www.linkedin.com/in/monarene/) [![Gmail Badge](https://img.shields.io/badge/-mekuleyimichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aderibigbejesutoni860@gmail.com)](mailto:aderibigbejesutoni860@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@monnarene-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ToniAderibigbe)](https://twitter.com/ToniAderibigbe) [![Linkedin Badge](https://img.shields.io/badge/-MichaelMekuleyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesutoni-aderibigbe/)](https://www.linkedin.com/in/jesutoni-aderibigbe/) [![Gmail Badge](https://img.shields.io/badge/-aderibigbejesutoni860@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aderibigbejesutoni860@gmail.com)](mailto:aderibigbejesutoni860@gmail.com)
 
 
 ### Software Engineer 🧑🏾‍💻 → Cloud Engineer ☁️
