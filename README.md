@@ -1,12 +1,11 @@
 <!-- <img src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/DevOpsTalk.png" alt=""> -->
 
-<h2> Hello Awesome human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hey there, I'm Jesutoni Aderibigbe <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src="https://i.ibb.co/fVyJvHv8/IMG-3694.jpg" width='200" '>
+<img align='right' src="https://i.ibb.co/fVyJvHv8/IMG-3694.jpg" width='400" '>
 
 [![Twitter Badge](https://img.shields.io/badge/-@monnarene-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monnarene)](https://twitter.com/monnarene) [![Linkedin Badge](https://img.shields.io/badge/-MichaelMekuleyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/monarene/) [![Gmail Badge](https://img.shields.io/badge/-mekuleyimichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mekuleyimichael@gmail.com)](mailto:mekuleyimichael@gmail.com)
 
-# Hey there, I'm Jesutoni Aderibigbe 👋🏾
 
 ### Software Engineer 🧑🏾‍💻 → Cloud Engineer ☁️
 
