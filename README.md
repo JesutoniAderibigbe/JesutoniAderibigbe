@@ -2,7 +2,7 @@
 
 <h2> Hello Awesome human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src="https://i.ibb.co/fVyJvHv8/IMG-3694.jpg" width='200"'>
+<img align='right' src="https://i.ibb.co/fVyJvHv8/IMG-3694.jpg" width='200" '>
 
 [![Twitter Badge](https://img.shields.io/badge/-@monnarene-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monnarene)](https://twitter.com/monnarene) [![Linkedin Badge](https://img.shields.io/badge/-MichaelMekuleyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/monarene/) [![Gmail Badge](https://img.shields.io/badge/-mekuleyimichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mekuleyimichael@gmail.com)](mailto:mekuleyimichael@gmail.com)
 
@@ -12,11 +12,18 @@
 
 > 4 years of software experience with **Flutter & Dart** | Currently pivoting into **Cloud Engineering** with a focus on **Google Cloud Platform**
 
-- I am also very passionate about the community, and I occasionally give talks on Linux, Kubernetes and Deployments
+- I am also very passionate about the community, and I occasionally give talks on Flutter, Gemini and other mobile frameworks
 
 ---
 
+## 🚀 About Me
 
+- 💻 Software Engineer with **4 years** of combined experience in **Flutter & Dart**
+- ☁️ Actively transitioning into **Cloud Engineering**, specialising in **Google Cloud Platform**
+- 🎯 Currently preparing for the **Google Associate Cloud Engineer** certification
+- 🌍 Passionate about building and deploying scalable, cloud-native applications
+
+---
     
 ---
 
@@ -24,8 +31,8 @@
 - Name: Jesutoni Aderibigbe
 - Pronouns: He/Him :man:
 <!-- - Presentations -->
-- Role: DevOps Engineer/SRE
-- Hobbies: Cooking and Working out
+- Role: Mobile(Flutter) Engineer -> Cloud Enginenr
+- Hobbies: Reading, I guess
 
 ---
 
