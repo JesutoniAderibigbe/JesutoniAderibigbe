@@ -1,66 +1,137 @@
-<!-- <img src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/DevOpsTalk.png" alt=""> -->
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:02569B&height=200&section=header&text=Jesutoni%20Aderibigbe&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB%20%E2%86%92%20Cloud%20Engineer%20%E2%98%81%EF%B8%8F&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</div>
 
-<h2> Hey there, I'm Jesutoni Aderibigbe <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<!-- Greeting -->
+<h2 align="center">
+  Hey there, I'm Jesutoni
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h2>
 
-<img align='right' src="https://i.ibb.co/fVyJvHv8/IMG-3694.jpg" width='400" '>
+<!-- Social Badges -->
+<div align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/-@ToniAderibigbe-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ToniAderibigbe)](https://twitter.com/ToniAderibigbe) [![Linkedin Badge](https://img.shields.io/badge/-JesutoniAderibigbe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesutoni-aderibigbe/)](https://www.linkedin.com/in/jesutoni-aderibigbe/) [![Gmail Badge](https://img.shields.io/badge/-aderibigbejesutoni860@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aderibigbejesutoni860@gmail.com)](mailto:aderibigbejesutoni860@gmail.com)
+[![Twitter](https://img.shields.io/badge/-@ToniAderibigbe-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ToniAderibigbe)
+[![LinkedIn](https://img.shields.io/badge/-JesutoniAderibigbe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesutoni-aderibigbe/)
+[![Gmail](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aderibigbejesutoni860@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aderibigbejesutoni860)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/toniaderibigbe)
 
+</div>
 
-### Software Engineer 🧑🏾‍💻 → Cloud Engineer ☁️
+<br/>
 
-> 4 years of software experience with **Flutter & Dart** | Currently pivoting into **Cloud Engineering** with a focus on **Google Cloud Platform**
+<img align="right" src="https://i.ibb.co/fVyJvHv8/IMG-3694.jpg" width="220px" style="border-radius:12px"/>
 
-- I am also very passionate about the community, and I occasionally give talks on Flutter, Gemini and other mobile frameworks
+> 🎓 **First Class Honours in Law** · LLB, University of Ibadan — *One of the best in the faculty*
+>
+> 💻 **4 years** of software experience with **Flutter & Dart** | Pivoting into **Cloud Engineering** on **Google Cloud Platform**
+>
+> 🏅 **Google Dev Library Contributor** — recognised for contributions to Flutter & Firebase
+>
+> *"Law graduate turned Software Engineer — now on my way to the cloud."* ☁️
+
+- 🌍 Passionate about community — I give talks on **Flutter, Gemini** and mobile frameworks
+- 🎯 Currently preparing for the **Google Associate Cloud Engineer** certification
+- 🗣️ **Pronouns:** He/Him &nbsp; | &nbsp; 📍 **Ibadan, Nigeria** 🇳🇬
+
+<br clear="right"/>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Engineer with **4 years** of combined experience in **Flutter & Dart**
-- ☁️ Actively transitioning into **Cloud Engineering**, specialising in **Google Cloud Platform**
-- 🎯 Currently preparing for the **Google Associate Cloud Engineer** certification
-- 🌍 Passionate about building and deploying scalable, cloud-native applications
+| | |
+|---|---|
+| 🎓 **Education** | LLB Law, **First Class Honours** 🏆 — University of Ibadan |
+| 💼 **Current Role** | Mobile (Flutter) Engineer → Cloud Engineer |
+| ☁️ **Certifications** | Google Associate Cloud Engineer *(coming soon 🙈)* |
+| 📚 **Hobbies** | Reading, Tech Talks, Building things |
 
 ---
-    
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile & Software Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
 ---
 
-## 💬 Details
-- Name: Jesutoni Aderibigbe
-- Pronouns: He/Him :man:
-<!-- - Presentations -->
-- Role: Mobile(Flutter) Engineer -> Cloud Enginenr
-- Hobbies: Reading, I guess
+## 🔭 Currently Working On
+
+- 💼 Full-time **Flutter & Dart** mobile development
+- 🛠️ Building personal cloud-native projects with **GCP, Docker & Kubernetes**
+
+## 🌱 Currently Learning
+
+- ☁️ **Google Cloud fundamentals** — preparing for the Associate Cloud Engineer exam
+- ⚙️ **DevOps practices** — CI/CD, infrastructure as code with Terraform & Ansible
 
 ---
 
 ## 👯 Communities
-- Member, FlutterByes Community (Nigeria) 
-- Member, Flutter Ibadan (Nigeria)
-- Ex Organizer, Google Developers Group on Campus (Nigeria)
-- Ex Flutter Lead, Google Developer Student Club (University Of Ibadan)
+
+- 🦋 Member, **FlutterBytes Community** (Nigeria)
+- 📱 Member, **Flutter Ibadan** (Nigeria)
+- 🎓 Ex Organizer, **Google Developers Group on Campus** (Nigeria)
+- 🚀 Ex Flutter Lead, **Google Developer Student Club** — University of Ibadan
 
 ---
 
-## 📣📣 Talks and Events
-- [BWAI UniIbadan '25 - Getting Started with Firebase Studio](https://docs.google.com/presentation/d/1RyAEyLxm7ZolQI1xsPEtYuxBcF16wd0DmN5GlkYlAxE/edit?usp=sharing)
-- [FlutterBytes Conference '25 - Visual Testing with WidgetBook Cloud](https://docs.google.com/presentation/d/1G5x9iOWh5U7AybQhrSXELcf5nORCyZOXQ-ZpVBp2BQ0/edit?usp=sharing)
-- [PreDevFest '25 Mobile Track - Full Stack Gen AI: Building a Smart Travel Planner App with Flutter, Genkit, and Gemini](https://docs.google.com/presentation/d/18nNDj-pSTDiODr7D6KgvfIofJkPtrt2YYgURe8Xknhs/edit?usp=sharing)
-- [DevFest Ajah'25 - From Photo to Post: Building an AI Social Media Assistant with Flutter and Gemini Vision](https://docs.google.com/presentation/d/1RRzzKXdBZXCz54CWcwdCP54GBmgC4iWY/edit?usp=sharing&ouid=105768225813548759987&rtpof=true&sd=true)
-- [Energy Club '25 - Sustaining Ideas: IP Research and Technology in the Energy Sector](https://docs.google.com/presentation/d/15MNPW5_KEeobXqEntBpaZaPqZgew1fTfck0JPADq_Kc/edit?usp=sharing)
-- [Kenya Tech Hub's in Nigeria Talk '25 - Building a Multimodal AI Assistant in Flutter](https://gamma.app/docs/Building-a-Multimodal-AI-Assistant-in-Flutter-edtkh9llhh7yj6h) 
-- [JAALS Connect '25 - Beyond Coding:Tech Skills for Every Career](https://gamma.app/docs/Beyond-Coding-Tech-Skills-for-Every-Career-gv9dmb844u5vjbg) 
-- [JCI '25 - Understanding Digital Literacy: Skills to Thrive](https://gamma.app/docs/Understanding-Digital-Literacy-Skills-to-Thrive-n79bnfxm03j338g)
-- [Delta Students Association '25 -Future-Proof Skills: Bridging Web, AI & Employment for the Digital Age](https://gamma.app/docs/Future-Proof-Skills-Bridging-Web-AI-Employment-for-the-Digital-Ag-1uz3r06vh1rx9vi)
-- [IPTLC '24 - Digital Assets and Inheritance in this Tech Age](https://docs.google.com/presentation/d/1ojwCovD8e2v-A-MbaIKMvqtZ9B0OkRmILwfd-A8O80I/edit?usp=sharing) 
-- [TechHub '24 - Maintaining Balance as a Student and outside the classroom](https://docs.google.com/presentation/d/1oYY79NJDem4DVITE8G2iv1IzAgD9xhZP/edit?usp=sharing&ouid=105768225813548759987&rtpof=true&sd=true) 
-- [Google I/O Extended Ibadan '23 - What's new in Firebase with Flutter '23](https://docs.google.com/presentation/d/1nttCB-i-JjiBm1u4IT6LTt3sEgPUi-Ze/edit?slide=id.p1#slide=id.p1)
-- [Devfest Lagos '23 - Unlocking the Power of Firebase and Bloc](https://docs.google.com/presentation/d/15o17I0CpXIacNJSPcgblzC-OBiiaO_rW5H8PCL-PUXg/edit?usp=sharing)
-- [TechQuest for GDSC Ajayi Crowther '23 - No Gree for anybody](https://docs.google.com/presentation/d/1qBAMK0aEAz7_fWD-UwIffa2MrZcRCVt7i4zyKDgMjJs/edit?usp=sharing) 
+## 📣 Talks & Events
+
+<details>
+<summary><b>🎤 Click to see all talks (14 talks & counting!) 🚀</b></summary>
+
+<br/>
+
+| Year | Event | Topic |
+|------|-------|-------|
+| 2025 | BWAI UniIbadan | [Getting Started with Firebase Studio](https://docs.google.com/presentation/d/1RyAEyLxm7ZolQI1xsPEtYuxBcF16wd0DmN5GlkYlAxE/edit?usp=sharing) |
+| 2025 | FlutterBytes Conference | [Visual Testing with WidgetBook Cloud](https://docs.google.com/presentation/d/1G5x9iOWh5U7AybQhrSXELcf5nORCyZOXQ-ZpVBp2BQ0/edit?usp=sharing) |
+| 2025 | PreDevFest Mobile Track | [Full Stack Gen AI: Smart Travel Planner with Flutter, Genkit & Gemini](https://docs.google.com/presentation/d/18nNDj-pSTDiODr7D6KgvfIofJkPtrt2YYgURe8Xknhs/edit?usp=sharing) |
+| 2025 | DevFest Ajah | [From Photo to Post: AI Social Media Assistant with Flutter & Gemini Vision](https://docs.google.com/presentation/d/1RRzzKXdBZXCz54CWcwdCP54GBmgC4iWY/edit?usp=sharing) |
+| 2025 | Energy Club | [Sustaining Ideas: IP Research and Technology in the Energy Sector](https://docs.google.com/presentation/d/15MNPW5_KEeobXqEntBpaZaPqZgew1fTfck0JPADq_Kc/edit?usp=sharing) |
+| 2025 | Kenya Tech Hub in Nigeria | [Building a Multimodal AI Assistant in Flutter](https://gamma.app/docs/Building-a-Multimodal-AI-Assistant-in-Flutter-edtkh9llhh7yj6h) |
+| 2025 | JAALS Connect | [Beyond Coding: Tech Skills for Every Career](https://gamma.app/docs/Beyond-Coding-Tech-Skills-for-Every-Career-gv9dmb844u5vjbg) |
+| 2025 | JCI | [Understanding Digital Literacy: Skills to Thrive](https://gamma.app/docs/Understanding-Digital-Literacy-Skills-to-Thrive-n79bnfxm03j338g) |
+| 2025 | Delta Students Association | [Future-Proof Skills: Bridging Web, AI & Employment for the Digital Age](https://gamma.app/docs/Future-Proof-Skills-Bridging-Web-AI-Employment-for-the-Digital-Ag-1uz3r06vh1rx9vi) |
+| 2024 | IPTLC | [Digital Assets and Inheritance in this Tech Age](https://docs.google.com/presentation/d/1ojwCovD8e2v-A-MbaIKMvqtZ9B0OkRmILwfd-A8O80I/edit?usp=sharing) |
+| 2024 | TechHub | [Maintaining Balance as a Student and Outside the Classroom](https://docs.google.com/presentation/d/1oYY79NJDem4DVITE8G2iv1IzAgD9xhZP/edit?usp=sharing) |
+| 2023 | Google I/O Extended Ibadan | [What's New in Firebase with Flutter '23](https://docs.google.com/presentation/d/1nttCB-i-JjiBm1u4IT6LTt3sEgPUi-Ze/edit?slide=id.p1) |
+| 2023 | DevFest Lagos | [Unlocking the Power of Firebase and Bloc](https://docs.google.com/presentation/d/15o17I0CpXIacNJSPcgblzC-OBiiaO_rW5H8PCL-PUXg/edit?usp=sharing) |
+| 2023 | TechQuest for GDSC Ajayi Crowther | [No Gree for Anybody](https://docs.google.com/presentation/d/1qBAMK0aEAz7_fWD-UwIffa2MrZcRCVt7i4zyKDgMjJs/edit?usp=sharing) |
+
+</details>
+
 ---
 
-### 📕 Latest Blog Posts
+## 🌟 Featured By Google
+
+[![Google Dev Library](https://img.shields.io/badge/Google_Dev_Library-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://devlibrary.withgoogle.com/authors/aderibigbejesutoni860)
+
+> Recognised by **Google** for contributions to **Flutter** and **Firebase** 🙌🏾
+
+---
+
+## 🏅 Certifications
+
+> *I shall be back with all my certifications from Google Cloud in a few weeks* ❤️🙈
+
+---
+
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Exploring Providers and their Types](https://medium.com/@aderibigbejesutoni860/exploring-providers-and-their-types-144f2fa77b78)
@@ -85,38 +156,24 @@
 - [Using Firebase as your Backend for your Flutter Mobile Applications (I)](https://medium.com/@aderibigbejesutoni860/using-firebase-as-your-backend-for-your-flutter-mobile-applications-i-1d82136c174b)
 - [Built to Last in Tech](https://medium.com/@aderibigbejesutoni860/built-to-last-in-tech-81ded70b3144)
 - [Hosting your Flutter Web with Firebase](https://medium.com/@aderibigbejesutoni860/hosting-your-flutter-web-with-firebase-86a23db12204)
-
-### 📕 Certifications
-
--I shall be back with all my certifications from Google Cloud in a few weeks❤️🙈
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-### Who featured me? 🥳🫢🤩 
-- [Google Cloud on X - featured my community work in DevOps](https://x.com/GoogleCloudTech/status/1707772472555184132?s=20)
-- [DEV community - featured my article on Node Affinity](https://x.com/ThePracticalDev/status/1698615635524063464?s=20)
-- [Ibadan Techys Club - featured my talk on DevOps and Kubernetes](https://x.com/badtechys/status/1593867536466165760?s=20)
-- [KubeTools - featured my article on Intentional Pod Scheduling](https://x.com/kubetools/status/1686711111679127552?s=20)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesutoniAderibigbe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesutoniAderibigbe&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesutoniAderibigbe&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
 
 ---
 
-## 🔭 I’m currently working on
-- Building Cloud Native application with Kubernetes and Docker
-
----
-
-## 🌱 I’m currently learning
-- Advaanced Concepts in Reliability and Observability
-
-
----
-
-
-## To create your own version of this wonderful feature by Github, follow this simple steps:
-
-1. You can either fork or clone the repo
-2. Create a new repository
-3. Make the name of the repository your github username, fo example my username is `monarene` so my repository name will be `monarene`.
-4. After this, a README.md file is automatically created, you can either clone this new repo or edit on your browser
-5. Paste what you forked/cloned from my repository and edit to your own style.
-5. To add more style to your README, you can watch this video by [codeSTACKr](https://www.youtube.com/watch?v=n6d4KHSKqGk) for the Spotify and also the blogpost functionality
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:4285F4&height=120&section=footer" width="100%"/>
+</div>
