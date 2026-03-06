@@ -44,9 +44,6 @@
 ---
 
 ## 📣📣 Talks and Events
-- [Google I/O Extended Ibadan '23 - What's new in Firebase with Flutter '23](https://docs.google.com/presentation/d/1nttCB-i-JjiBm1u4IT6LTt3sEgPUi-Ze/edit?slide=id.p1#slide=id.p1)
-- [Devfest Lagos '23 - Unlocking the Power of Firebase and Bloc](https://docs.google.com/presentation/d/15o17I0CpXIacNJSPcgblzC-OBiiaO_rW5H8PCL-PUXg/edit?usp=sharing)
-- [TechQuest for GDSC Ajayi Crowther '23 - No Gree for anybody](https://docs.google.com/presentation/d/1qBAMK0aEAz7_fWD-UwIffa2MrZcRCVt7i4zyKDgMjJs/edit?usp=sharing) 
 - [BWAI UniIbadan '25 - Getting Started with Firebase Studio](https://docs.google.com/presentation/d/1RyAEyLxm7ZolQI1xsPEtYuxBcF16wd0DmN5GlkYlAxE/edit?usp=sharing)
 - [FlutterBytes Conference '25 - Visual Testing with WidgetBook Cloud](https://docs.google.com/presentation/d/1G5x9iOWh5U7AybQhrSXELcf5nORCyZOXQ-ZpVBp2BQ0/edit?usp=sharing)
 - [PreDevFest '25 Mobile Track - Full Stack Gen AI: Building a Smart Travel Planner App with Flutter, Genkit, and Gemini](https://docs.google.com/presentation/d/18nNDj-pSTDiODr7D6KgvfIofJkPtrt2YYgURe8Xknhs/edit?usp=sharing)
@@ -54,10 +51,13 @@
 - [Energy Club '25 - Sustaining Ideas: IP Research and Technology in the Energy Sector](https://docs.google.com/presentation/d/15MNPW5_KEeobXqEntBpaZaPqZgew1fTfck0JPADq_Kc/edit?usp=sharing)
 - [Kenya Tech Hub's in Nigeria Talk '25 - Building a Multimodal AI Assistant in Flutter](https://gamma.app/docs/Building-a-Multimodal-AI-Assistant-in-Flutter-edtkh9llhh7yj6h) 
 - [JAALS Connect '25 - Beyond Coding:Tech Skills for Every Career](https://gamma.app/docs/Beyond-Coding-Tech-Skills-for-Every-Career-gv9dmb844u5vjbg) 
-- [JCI '25 - Understanding Digital Literacy: Skills to Thrive](https://gamma.app/docs/Understanding-Digital-Literacy-Skills-to-Thrive-n79bnfxm03j338g) 
+- [JCI '25 - Understanding Digital Literacy: Skills to Thrive](https://gamma.app/docs/Understanding-Digital-Literacy-Skills-to-Thrive-n79bnfxm03j338g)
+- [Delta Students Association '25 -Future-Proof Skills: Bridging Web, AI & Employment for the Digital Age](https://gamma.app/docs/Future-Proof-Skills-Bridging-Web-AI-Employment-for-the-Digital-Ag-1uz3r06vh1rx9vi)
 - [IPTLC '24 - Digital Assets and Inheritance in this Tech Age](https://docs.google.com/presentation/d/1ojwCovD8e2v-A-MbaIKMvqtZ9B0OkRmILwfd-A8O80I/edit?usp=sharing) 
 - [TechHub '24 - Maintaining Balance as a Student and outside the classroom](https://docs.google.com/presentation/d/1oYY79NJDem4DVITE8G2iv1IzAgD9xhZP/edit?usp=sharing&ouid=105768225813548759987&rtpof=true&sd=true) 
-- [Delta Students Association '25 -Future-Proof Skills: Bridging Web, AI & Employment for the Digital Age](https://gamma.app/docs/Future-Proof-Skills-Bridging-Web-AI-Employment-for-the-Digital-Ag-1uz3r06vh1rx9vi)
+- [Google I/O Extended Ibadan '23 - What's new in Firebase with Flutter '23](https://docs.google.com/presentation/d/1nttCB-i-JjiBm1u4IT6LTt3sEgPUi-Ze/edit?slide=id.p1#slide=id.p1)
+- [Devfest Lagos '23 - Unlocking the Power of Firebase and Bloc](https://docs.google.com/presentation/d/15o17I0CpXIacNJSPcgblzC-OBiiaO_rW5H8PCL-PUXg/edit?usp=sharing)
+- [TechQuest for GDSC Ajayi Crowther '23 - No Gree for anybody](https://docs.google.com/presentation/d/1qBAMK0aEAz7_fWD-UwIffa2MrZcRCVt7i4zyKDgMjJs/edit?usp=sharing) 
 ---
 
 ### 📕 Latest Blog Posts
