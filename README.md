@@ -4,7 +4,7 @@
 
 <img align='right' src="https://i.ibb.co/fVyJvHv8/IMG-3694.jpg" width='400" '>
 
-[![Twitter Badge](https://img.shields.io/badge/-@monnarene-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ToniAderibigbe)](https://twitter.com/ToniAderibigbe) [![Linkedin Badge](https://img.shields.io/badge/-JesutoniAderibigbe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesutoni-aderibigbe/)](https://www.linkedin.com/in/jesutoni-aderibigbe/) [![Gmail Badge](https://img.shields.io/badge/-aderibigbejesutoni860@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aderibigbejesutoni860@gmail.com)](mailto:aderibigbejesutoni860@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ToniAderibigbe-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ToniAderibigbe)](https://twitter.com/ToniAderibigbe) [![Linkedin Badge](https://img.shields.io/badge/-JesutoniAderibigbe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesutoni-aderibigbe/)](https://www.linkedin.com/in/jesutoni-aderibigbe/) [![Gmail Badge](https://img.shields.io/badge/-aderibigbejesutoni860@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aderibigbejesutoni860@gmail.com)](mailto:aderibigbejesutoni860@gmail.com)
 
 
 ### Software Engineer 🧑🏾‍💻 → Cloud Engineer ☁️
@@ -44,25 +44,20 @@
 ---
 
 ## 📣📣 Talks and Events
-- [Devfest Ikorodu '23 - Hardening Cluster Security with Google Kubernetes Engine](https://docs.google.com/presentation/d/14uNvK-uejuxrn0q4JYW72J0ftXYpehAXOR2_VfEEr30/edit?usp=sharing)
-- [Devfest Ogbomoso '23 - Infra-level Observability with Google Cloud Monitoring](https://docs.google.com/presentation/d/1BSeFtx54j5gDGHY6sj6KCP6E6wMEf-L7TdhsFzZxEzE/edit?usp=sharing)
-- [TechQuest for GDSC UI '23 - An Intersection of Software Engineering and Product Development: A Success Story](https://docs.google.com/presentation/d/1wzF4OAKM2z6C8uHFBuD1Ww5HGWpMf5m71LbJUbOxoqI/edit?usp=sharing) 
-- [Yassir September Guild Meeting '23 - Mastering Your Contributions to DevOps Open Source Projects](https://docs.google.com/presentation/d/1k6-GCMhZ3_iaB45aKRx91qCzMVZWF1_lgO-hR7mMB4o/edit?usp=sharing)
-- [Career and Business People's Summit '23 - Leveraging Artificial Intelligence to Maximise Output](https://docs.google.com/presentation/d/1uoTkPCTJSWA5Ff9qw4VOJhjsueJP5BBJiQf8_gPM99Q/edit?usp=sharing)
-- [University of Ibadan 75th Matriculation Ceremony '23 - Integrity in the Technology Age](https://docs.google.com/presentation/d/1tJbS51byBowNH33S-E6WGJnZoHe9Cs6eE6er3knod4A/edit?usp=sharing)
-- [Kamp Kinetics '23 - Introduction to Cloud Engineering and DevOps](https://docs.google.com/presentation/d/1y3mUVcCZfZ5jpTvokZmulshZvmTVdaCkVMgq73NbtQU/edit?usp=sharing)
-- [Local Host '23 - Advanced Dyanmic Volume Provisioning in Kubernetes with AWS and Terraform](https://docs.google.com/presentation/d/1N1lEtOSS3ohQh55iP8Mo6ljO-FFmzUFYtU2S_GrO68o/edit?usp=sharing) 
-- [Cloud Study Jam Germany '23 - Deploying Fully Managed Containers with Google Cloud Run](https://docs.google.com/presentation/d/1ojg8ENoAPaSEb2EBrwPr_nH317O9dIoBrvwp9wVGXXg/edit?usp=sharing) 
-- [HardeBusiness School '23 - Transitioning into Tech](https://docs.google.com/presentation/d/1JrAt7t3s-lWyf4FVE4msAPlqfpL-YhEwF3jBy21S1Ic/edit?usp=sharing)
-- [DevFest Ibadan '22 - Deploying Resilient systems with Kubernetes](https://docs.google.com/presentation/d/1cxsdARaahp1nTgGs75hNEtTECUplv2F5iFa4rG_ArBM/edit?usp=sharing)
-- [Ibadan Techies Clud '22 - Deploying Software with Kubernetes](https://docs.google.com/presentation/d/1mk6D5W5nTiZ3OmjgDtySXu7utk8GW3esx0iUcIvTDwQ/edit?usp=sharing) 
-- [DevFest Ogbomosha '22 - Deploying Resilient systems with Kubernetes](https://docs.google.com/presentation/d/1vz6PmYsxGOPfEHzayd3FpYlkvuhisGPRML7GbyFl7Tc/edit?usp=sharing) 
-- [SeamFix Talks '22 - Leveraging Community Building For your Tech Career](https://docs.google.com/presentation/d/1m6qigJ6aCsYF8aJTBRB-rwtq2fkQPo3jJ89suBr5HIw/edit?usp=sharing) 
-- [Cloud Study Jam '22 - Google Cloud Fundamentals](https://docs.google.com/presentation/d/1eItpi1tR0xew7SWCtENWJRHrYmRTdJdg0Tqg7gql8G4/edit?usp=sharing)
-- [Google IO EXtended Ibadan '22 - Building Tech Applications the scalable way](https://docs.google.com/presentation/d/13L1G3DPyK0r6IttO3SMEVJopVMDeTKnhOf1F2h4qN-Y/edit?usp=sharing)
-- [Tensorflow Study Jam '21 - Deploying Tensorflow Machine Learning Models](https://docs.google.com/presentation/d/1tNQCxCMPcTJNKRctCGckMD6cPHQ8VHStB8xyeeCDJWQ/edit?usp=sharing)
-- [Tensorflow DevSummit '19 - Building Robust Ml models in Keras](https://docs.google.com/presentation/d/1xmn8AVcC574bDKGSN2pGavs2x-tHu67IB8X8Apf3-m0/edit?usp=sharing)
-
+- [Google I/O Extended Ibadan '23 - What's new in Firebase with Flutter '23](https://docs.google.com/presentation/d/1nttCB-i-JjiBm1u4IT6LTt3sEgPUi-Ze/edit?slide=id.p1#slide=id.p1)
+- [Devfest Lagos '23 - Unlocking the Power of Firebase and Bloc](https://docs.google.com/presentation/d/15o17I0CpXIacNJSPcgblzC-OBiiaO_rW5H8PCL-PUXg/edit?usp=sharing)
+- [TechQuest for GDSC Ajayi Crowther '23 - No Gree for anybody](https://docs.google.com/presentation/d/1qBAMK0aEAz7_fWD-UwIffa2MrZcRCVt7i4zyKDgMjJs/edit?usp=sharing) 
+- [BWAI UniIbadan '25 - Getting Started with Firebase Studio](https://docs.google.com/presentation/d/1RyAEyLxm7ZolQI1xsPEtYuxBcF16wd0DmN5GlkYlAxE/edit?usp=sharing)
+- [FlutterBytes Conference '25 - Visual Testing with WidgetBook Cloud](https://docs.google.com/presentation/d/1G5x9iOWh5U7AybQhrSXELcf5nORCyZOXQ-ZpVBp2BQ0/edit?usp=sharing)
+- [PreDevFest '25 Mobile Track - Full Stack Gen AI: Building a Smart Travel Planner App with Flutter, Genkit, and Gemini](https://docs.google.com/presentation/d/18nNDj-pSTDiODr7D6KgvfIofJkPtrt2YYgURe8Xknhs/edit?usp=sharing)
+- [DevFest Ajah'25 - From Photo to Post: Building an AI Social Media Assistant with Flutter and Gemini Vision](https://docs.google.com/presentation/d/1RRzzKXdBZXCz54CWcwdCP54GBmgC4iWY/edit?usp=sharing&ouid=105768225813548759987&rtpof=true&sd=true)
+- [Energy Club '25 - Sustaining Ideas: IP Research and Technology in the Energy Sector](https://docs.google.com/presentation/d/15MNPW5_KEeobXqEntBpaZaPqZgew1fTfck0JPADq_Kc/edit?usp=sharing)
+- [Kenya Tech Hub's in Nigeria Talk '25 - Building a Multimodal AI Assistant in Flutter](https://gamma.app/docs/Building-a-Multimodal-AI-Assistant-in-Flutter-edtkh9llhh7yj6h) 
+- [JAALS Connect '25 - Beyond Coding:Tech Skills for Every Career](https://gamma.app/docs/Beyond-Coding-Tech-Skills-for-Every-Career-gv9dmb844u5vjbg) 
+- [JCI '25 - Understanding Digital Literacy: Skills to Thrive](https://gamma.app/docs/Understanding-Digital-Literacy-Skills-to-Thrive-n79bnfxm03j338g) 
+- [IPTLC '24 - Digital Assets and Inheritance in this Tech Age](https://docs.google.com/presentation/d/1ojwCovD8e2v-A-MbaIKMvqtZ9B0OkRmILwfd-A8O80I/edit?usp=sharing) 
+- [TechHub '24 - Maintaining Balance as a Student and outside the classroom](https://docs.google.com/presentation/d/1oYY79NJDem4DVITE8G2iv1IzAgD9xhZP/edit?usp=sharing&ouid=105768225813548759987&rtpof=true&sd=true) 
+- [Delta Students Association '25 -Future-Proof Skills: Bridging Web, AI & Employment for the Digital Age](https://gamma.app/docs/Future-Proof-Skills-Bridging-Web-AI-Employment-for-the-Digital-Ag-1uz3r06vh1rx9vi)
 ---
 
 ### 📕 Latest Blog Posts
