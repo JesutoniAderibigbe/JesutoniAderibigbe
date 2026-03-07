@@ -134,28 +134,16 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Providers and their Types](https://medium.com/@aderibigbejesutoni860/exploring-providers-and-their-types-144f2fa77b78)
-- [Why Riverpod?](https://medium.com/@aderibigbejesutoni860/why-riverpod-4e572c6aedb4)
-- [Riverpod Series……](https://medium.com/@aderibigbejesutoni860/riverpod-series-83f8f21cc8a0)
-- [Reflections - Timeless Limit PART A](https://medium.com/@aderibigbejesutoni860/reflections-timeless-limit-part-a-6cccfbdfd492)
+- [Exploring Providers and their Types](https://aderibigbejesutoni860.medium.com/exploring-providers-and-their-types-144f2fa77b78?source=rss-8cfa83e0002d------2)
+- [Why Riverpod?](https://aderibigbejesutoni860.medium.com/why-riverpod-4e572c6aedb4?source=rss-8cfa83e0002d------2)
+- [Riverpod Series……](https://aderibigbejesutoni860.medium.com/riverpod-series-83f8f21cc8a0?source=rss-8cfa83e0002d------2)
 - [Automation 102 with Google Apps Script](https://dev.to/toniaderibigbe/automation-102-with-google-apps-script-2kc5)
 - [Automation 101 with Google Apps Script](https://dev.to/toniaderibigbe/automation-101-with-google-apps-script-18l)
-- [Generative AI with Flutter Series 1](https://medium.com/@aderibigbejesutoni860/generative-ai-with-flutter-series-1-97d58f624289)
-- [Unleash Your Potential: Innovate for a Better Future at NexTech Hack!](https://medium.com/@aderibigbejesutoni860/unleash-your-potential-innovate-for-a-better-future-at-nextech-hack-54fcc804d797)
-- [Hive — Not The Bee!](https://medium.com/@aderibigbejesutoni860/hive-not-the-bee-c710045429f5)
-- [Contributing to Google Solutions Challenge — The Beginner's Guide](https://medium.com/@aderibigbejesutoni860/contributing-to-google-solutions-challenge-the-beginners-guide-489c842eac71)
-- [The Beginning of a New Beginning](https://medium.com/@aderibigbejesutoni860/the-beginning-of-a-new-beginning-b26fcf3acddc)
-- [Routing to Dynamic Pages with Flutter](https://medium.com/@aderibigbejesutoni860/routing-to-dynamic-pages-with-flutter-12a157d47337)
-- [Dart Puzzles 101](https://medium.com/@aderibigbejesutoni860/dart-puzzles-101-2199e69e69bc)
-- [Flutter and Clean Architecture (II)](https://medium.com/@aderibigbejesutoni860/flutter-and-clean-architecture-ii-bf39113df82b)
-- [Flutter and Clean Architecture (I)](https://medium.com/@aderibigbejesutoni860/flutter-and-clean-architecture-i-be75e13608d4)
-- [Efficient API Consumption with Dio in Flutter III](https://medium.com/@aderibigbejesutoni860/efficient-api-consumption-with-dio-in-flutter-iii-7301ffd62d6f)
-- [Efficient API Consumption with Dio in Flutter II](https://medium.com/@aderibigbejesutoni860/efficient-api-consumption-with-dio-in-flutter-ii-13c657700c38)
-- [Efficient API Consumption with Dio in Flutter I](https://medium.com/@aderibigbejesutoni860/efficient-api-consumption-with-dio-in-flutter-i-f70ff625ea8)
-- [Using Firebase as your Backend for your Flutter Mobile Applications (II)](https://medium.com/@aderibigbejesutoni860/using-firebase-as-your-backend-for-your-flutter-mobile-applications-ii-c17355916dde)
-- [Using Firebase as your Backend for your Flutter Mobile Applications (I)](https://medium.com/@aderibigbejesutoni860/using-firebase-as-your-backend-for-your-flutter-mobile-applications-i-1d82136c174b)
-- [Built to Last in Tech](https://medium.com/@aderibigbejesutoni860/built-to-last-in-tech-81ded70b3144)
-- [Hosting your Flutter Web with Firebase](https://medium.com/@aderibigbejesutoni860/hosting-your-flutter-web-with-firebase-86a23db12204)
+- [Reflections - Timeless Limit PART A](https://aderibigbejesutoni860.medium.com/reflections-timeless-limit-part-a-6cccfbdfd492?source=rss-8cfa83e0002d------2)
+- [Generative AI with Flutter Series 1](https://aderibigbejesutoni860.medium.com/generative-ai-with-flutter-series-1-97d58f624289?source=rss-8cfa83e0002d------2)
+- [Unleash Your Potential: Innovate for a Better Future at NexTech Hack!](https://aderibigbejesutoni860.medium.com/unleash-your-potential-innovate-for-a-better-future-at-nextech-hack-54fcc804d797?source=rss-8cfa83e0002d------2)
+- [Hive — Not The Bee!](https://aderibigbejesutoni860.medium.com/hive-not-the-bee-c710045429f5?source=rss-8cfa83e0002d------2)
+- [Contributing to Google Solutions Challenge — The Beginner’s Guide.](https://aderibigbejesutoni860.medium.com/contributing-to-google-solutions-challenge-the-beginners-guide-489c842eac71?source=rss-8cfa83e0002d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
